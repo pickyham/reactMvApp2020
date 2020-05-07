@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactMvApp2020/static/css/main.cf5b4e01.chunk.css",
+    "main.js": "/reactMvApp2020/static/js/main.a31145c0.chunk.js",
+    "main.js.map": "/reactMvApp2020/static/js/main.a31145c0.chunk.js.map",
+    "runtime-main.js": "/reactMvApp2020/static/js/runtime-main.fd9b86e7.js",
+    "runtime-main.js.map": "/reactMvApp2020/static/js/runtime-main.fd9b86e7.js.map",
+    "static/js/2.696c938e.chunk.js": "/reactMvApp2020/static/js/2.696c938e.chunk.js",
+    "static/js/2.696c938e.chunk.js.map": "/reactMvApp2020/static/js/2.696c938e.chunk.js.map",
+    "index.html": "/reactMvApp2020/index.html",
+    "precache-manifest.7017f3e41546e348a51538d470f80dc0.js": "/reactMvApp2020/precache-manifest.7017f3e41546e348a51538d470f80dc0.js",
+    "service-worker.js": "/reactMvApp2020/service-worker.js",
+    "static/css/main.cf5b4e01.chunk.css.map": "/reactMvApp2020/static/css/main.cf5b4e01.chunk.css.map",
+    "static/js/2.696c938e.chunk.js.LICENSE.txt": "/reactMvApp2020/static/js/2.696c938e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd9b86e7.js",
+    "static/js/2.696c938e.chunk.js",
+    "static/css/main.cf5b4e01.chunk.css",
+    "static/js/main.a31145c0.chunk.js"
+  ]
+}
